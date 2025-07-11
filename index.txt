@@ -1,25 +1,22 @@
 1:"$Sreact.fragment"
-3:I[894,[],"ClientPageRoot"]
-4:I[3120,["573","static/chunks/573-5b89c3f88ffee051.js","766","static/chunks/766-13ddf2be3f77aff1.js","691","static/chunks/691-dc9268470bb7a72a.js","593","static/chunks/app/page-df14821bf4bfaddd.js"],"default"]
-7:I[9665,[],"OutletBoundary"]
-a:I[4911,[],"AsyncMetadataOutlet"]
-c:I[9665,[],"ViewportBoundary"]
-e:I[9665,[],"MetadataBoundary"]
-10:I[6614,[],""]
+3:"$Sreact.suspense"
+4:I[2998,["573","static/chunks/573-5b89c3f88ffee051.js","766","static/chunks/766-b26cff0bed9ce1ec.js","691","static/chunks/691-dc9268470bb7a72a.js","593","static/chunks/app/page-0fe975291da044c3.js"],"default"]
+5:I[9665,[],"OutletBoundary"]
+8:I[4911,[],"AsyncMetadataOutlet"]
+a:I[9665,[],"ViewportBoundary"]
+c:I[9665,[],"MetadataBoundary"]
+e:I[6614,[],""]
 :HL["/demo-export-dg/_next/static/css/3c9302e7a676740d.css","style"]
-0:{"P":null,"b":"VFEmg7rxahL_-9EDpfQHe","p":"/demo-export-dg","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/demo-export-dg/_next/static/css/3c9302e7a676740d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L2"]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L3",null,{"Component":"$4","searchParams":{},"params":{},"promises":["$@5","$@6"]}],null,["$","$L7",null,{"children":["$L8","$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","7AWPzT80NADCO3PcACRD2v",{"children":[["$","$Lc",null,{"children":"$Ld"}],null]}],["$","$Le",null,{"children":"$Lf"}]]}],false]],"m":"$undefined","G":["$10","$undefined"],"s":false,"S":true}
-11:"$Sreact.suspense"
-12:I[5494,["206","static/chunks/5e22fd23-5162fe131e5f1fcb.js","573","static/chunks/573-5b89c3f88ffee051.js","766","static/chunks/766-13ddf2be3f77aff1.js","691","static/chunks/691-dc9268470bb7a72a.js","177","static/chunks/app/layout-717fb3860583f36a.js"],"default"]
-13:I[7555,[],""]
-14:I[1295,[],""]
-15:I[6821,["206","static/chunks/5e22fd23-5162fe131e5f1fcb.js","573","static/chunks/573-5b89c3f88ffee051.js","766","static/chunks/766-13ddf2be3f77aff1.js","691","static/chunks/691-dc9268470bb7a72a.js","177","static/chunks/app/layout-717fb3860583f36a.js"],"default"]
-16:I[4911,[],"AsyncMetadata"]
-2:["$","html",null,{"children":["$","body",null,{"className":"__variable_8b31cb __variable_d0cd09 __variable_613742 __variable_3e9a16 antialiased","children":["$","$11",null,{"children":[["$","$L12",null,{}],["$","div",null,{"className":"bg-white shadow-2xl","children":["$","$L13",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L14",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$11",null,{"fallback":["$","div",null,{"children":"Loading..."}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L15",null,{}]]}]}]}]
-5:{}
-6:{}
-f:["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":["$","$L16",null,{"promise":"$@17"}]}]}]
-9:null
-d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-8:null
-b:{"metadata":[["$","title","0",{"children":"Desmar Global Incorporated"}],["$","meta","1",{"name":"description","content":"The Number One Distributor of Yucca Schidigera"}],["$","link","2",{"rel":"icon","href":"favicon.ico"}]],"error":null,"digest":"$undefined"}
-17:{"metadata":"$b:metadata","error":null,"digest":"$undefined"}
+0:{"P":null,"b":"UK7S2YuLBZ9BD8tD1Cy47","p":"/demo-export-dg","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/demo-export-dg/_next/static/css/3c9302e7a676740d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L2"]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$3",null,{"fallback":["$","div",null,{"children":"Loading..."}],"children":["$","$L4",null,{}]}],null,["$","$L5",null,{"children":["$L6","$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","wYc7L4t4FagpqGGp3zGjgv",{"children":[["$","$La",null,{"children":"$Lb"}],null]}],["$","$Lc",null,{"children":"$Ld"}]]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+f:I[5494,["206","static/chunks/5e22fd23-5162fe131e5f1fcb.js","573","static/chunks/573-5b89c3f88ffee051.js","766","static/chunks/766-b26cff0bed9ce1ec.js","691","static/chunks/691-dc9268470bb7a72a.js","177","static/chunks/app/layout-717fb3860583f36a.js"],"default"]
+10:I[7555,[],""]
+11:I[1295,[],""]
+12:I[6821,["206","static/chunks/5e22fd23-5162fe131e5f1fcb.js","573","static/chunks/573-5b89c3f88ffee051.js","766","static/chunks/766-b26cff0bed9ce1ec.js","691","static/chunks/691-dc9268470bb7a72a.js","177","static/chunks/app/layout-717fb3860583f36a.js"],"default"]
+13:I[4911,[],"AsyncMetadata"]
+2:["$","html",null,{"children":["$","body",null,{"className":"__variable_8b31cb __variable_d0cd09 __variable_613742 __variable_3e9a16 antialiased","children":["$","$3",null,{"fallback":["$","div",null,{"children":"Loading..."}],"children":[["$","$Lf",null,{}],["$","div",null,{"className":"bg-white shadow-2xl","children":["$","$L10",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$3",null,{"fallback":["$","div",null,{"children":"Loading..."}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L12",null,{}]]}]}]}]
+d:["$","div",null,{"hidden":true,"children":["$","$3",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]}]
+7:null
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+9:{"metadata":[["$","title","0",{"children":"Desmar Global Incorporated"}],["$","meta","1",{"name":"description","content":"The Number One Distributor of Yucca Schidigera"}],["$","link","2",{"rel":"icon","href":"favicon.ico"}]],"error":null,"digest":"$undefined"}
+14:{"metadata":"$9:metadata","error":null,"digest":"$undefined"}
